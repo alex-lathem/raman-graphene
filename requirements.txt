@@ -1,0 +1,7 @@
+rampy
+BaselineRemoval
+numpy
+pandas
+scipy
+matplotlib
+seaborn
